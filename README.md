@@ -13,6 +13,7 @@ Projeto criado em Python com a biblioteca cv2 que faz o reconhece o rosto do usu
 ## ⚙️ Funcionalidades
 - Acessa a câmera
 - Reconhece a face do usuário delimitando-a com um retângulo
+- Também econhece os olhos do usuário
 
 ## 🛠️ Stack
 - Python
@@ -25,7 +26,7 @@ Projeto criado em Python com a biblioteca cv2 que faz o reconhece o rosto do usu
 git clone https://github.com/PenelopeFarias745/live-detect
 ```
 
-2. Abra o arquivo no VSCode e execute-o. Certifique-se de que a câmera não está em uso.
+2. Abra os arquivos no VSCode e execute-os. Certifique-se de que a câmera não está em uso.
 
 ## ✅ Licença
 - **Permissão de Uso:** O código pode ser usado somente para fins educacionais.
