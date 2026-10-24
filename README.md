@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![status-Em_Desenvolvimento](https://img.shields.io/badge/status-Em_Desenvolvimento-yellow?style=for-the-badge&logoColor=white)
 
-Projeto criado em Python com a biblioteca cv2 que faz o reconhece o rosto do usuário, marcando-o com um retângulo.
+Projeto em Python com a biblioteca OpenCV que faz o reconhecimento do rosto e olhos do usuário.
 
 ---
 ## 📚 Aprendizados
@@ -11,13 +11,12 @@ Projeto criado em Python com a biblioteca cv2 que faz o reconhece o rosto do usu
 - Uso do classificador Haar Cascade
 
 ## ⚙️ Funcionalidades
-- Acessa a câmera
-- Reconhece a face do usuário delimitando-a com um retângulo
-- Também econhece os olhos do usuário
+- live-detec.py: acessa a câmera e reconhece a face do usuário delimitando-a com um retângulo
+- live-detec2.py: o mesmo que o acima, porém também reconhece os olhos
 
 ## 🛠️ Stack
 - Python
-- Biblioteca opencv
+- Biblioteca OpenCV
 
 ## 🚀 Deploy
 1. Clone ou baixe este repositório.
